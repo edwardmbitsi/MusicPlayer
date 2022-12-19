@@ -28,31 +28,31 @@ const songsList = [
     name: "Make Me Move",
     link: "make-me-move.mp3",
     artist: "Culture Code",
-    image: "make-me-move.jpg",
+    image: "https://blog.hootsuite.com/wp-content/uploads/2017/05/creative-commons-music-resources.png",
   },
   {
     name: "Where We Started",
     link: "where-we-started.mp3",
     artist: "Lost Sky",
-    image: "where-we-started.jpg",
+    image: "https://img.freepik.com/premium-vector/woman-with-earphones-listening-music_24911-68692.jpg",
   },
   {
     name: "On & On",
     link: "on-on.mp3",
     artist: "Cartoon",
-    image: "on-on.jpg",
+    image: "https://img.freepik.com/free-vector/record-player-concept-illustration_114360-6510.jpg?w=2000",
   },
   {
     name: "Throne",
     link: "throne.mp3",
     artist: "Rival",
-    image: "throne.jpg",
+    image: "https://img.freepik.com/premium-vector/couple-listening-music-vector_87720-8130.jpg?w=2000",
   },
   {
     name: "Need You Now",
     link: "need-you-now.mp3",
     artist: "Venemy",
-    image: "need-you-now.jpg",
+    image: "https://www.getillustrations.com/photos/pack/Music-band-illustrations_lg.png",
   },
 ];
 
